@@ -1,0 +1,29 @@
+.dashboard {
+  min-height: 100vh;
+  padding: 30px;
+  background: linear-gradient(to right, #141e30, #243b55);
+  color: white;
+  text-align: center;
+}
+
+.card {
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+}
+
+.actions {
+  margin-top: 20px;
+}
+
+.actions input {
+  padding: 10px;
+  margin: 10px;
+}
+
+.actions button {
+  padding: 10px 20px;
+  margin: 5px;
+}
